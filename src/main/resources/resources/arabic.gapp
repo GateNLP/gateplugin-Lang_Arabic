@@ -4,12 +4,12 @@
       <gate.creole.Plugin-Maven>
         <group>uk.ac.gate.plugins</group>
         <artifact>annie</artifact>
-        <version>8.5-SNAPSHOT</version>
+        <version>8.5</version>
       </gate.creole.Plugin-Maven>
       <gate.creole.Plugin-Maven>
         <group>uk.ac.gate.plugins</group>
         <artifact>lang-arabic</artifact>
-        <version>8.5-SNAPSHOT</version>
+        <version>8.5</version>
       </gate.creole.Plugin-Maven>    
     </localList>
     <collectionType>java.util.ArrayList</collectionType>
@@ -196,7 +196,7 @@
                 <entry>
                   <string>grammarURL</string>
                   <gate.util.persistence.PersistenceManager-RRPersistence>
-                    <uriString>creole://uk.ac.gate.plugins;lang-arabic;8.5-SNAPSHOT/resources/inferred-grammar/all.jape</uriString>
+                    <uriString>creole://uk.ac.gate.plugins;lang-arabic;8.5/resources/inferred-grammar/all.jape</uriString>
                   </gate.util.persistence.PersistenceManager-RRPersistence>
                 </entry>
               </localMap>
